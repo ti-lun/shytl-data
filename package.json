@@ -1,0 +1,19 @@
+{
+  "name": "@somatic/shytl-data",
+  "version": "1.0.0",
+  "description": "SHYTL data models",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ti-lun/shytl-data.git"
+  },
+  "author": "ti-lun, avielmenter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ti-lun/shytl-data/issues"
+  },
+  "homepage": "https://github.com/ti-lun/shytl-data#readme"
+}
